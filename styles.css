@@ -386,7 +386,7 @@ header {
   flex-direction: column;
   height: 10vh;
   width: 16vw;
-  border: 2px solid #fff;
+  border: 0.2em solid #fff;
   margin: 0 0 2em 0;
   text-align: center;
   padding: 2em;
@@ -408,7 +408,7 @@ header {
   flex-direction: column;
   height: 10vh;
   width: 16vw;
-  border: 2px solid #fff;
+  border: 0.2em solid #fff;
   margin: 0 0 2em 0;
   text-align: center;
   padding: 2em;
